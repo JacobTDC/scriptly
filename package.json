@@ -8,6 +8,7 @@
     "url": "https://github.com/jacobtdc/scriptly.git"
   },
   "scripts": {
+    "test": "echo",
     "start": "run",
   },
   "author": "JacobTDC",
