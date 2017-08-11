@@ -8,7 +8,7 @@
     "url": "https://github.com/jacobtdc/scriptly.git"
   },
   "scripts": {
-    "start": "node index.js",
+    "start": "run",
   },
   "author": "JacobTDC",
   "license": "MIT",
