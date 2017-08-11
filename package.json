@@ -9,7 +9,7 @@
   },
   "scripts": {
     "test": "echo",
-    "start": "run",
+    "start": "run"
   },
   "author": "JacobTDC",
   "license": "MIT",
